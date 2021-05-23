@@ -11,5 +11,16 @@
 
 <p>
     Where compiled_code is the name of the folder that includes all the compiled C++ programs and co_name is the compiled name of cw_code.cpp<br> 
-    The code_folder is the folder that includes the currently working C++ code (cw_code).
+    The code_folder is the folder that includes the currently working C++ code (cw_code).<br>
+    To execute the compiled C++ code, you must type in the command<br>
 </p>
+
+<h2>For computers running MacOS or Linux</h2>
+```
+    ./compiled_code/co_name
+```
+
+<h2>For computers running Windows</h2>
+```
+    ./compiled_code/co_name.exe
+```
